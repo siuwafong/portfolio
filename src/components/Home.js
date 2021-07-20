@@ -12,6 +12,7 @@ export default function Home() {
         <h1 className="text-2xl text-white-100 font-bold leading-none lg:leading-snug home-name">
           Hi. I'm Wilson
         </h1>
+        <p>I'm a full-stack web developer and math educator.</p>
       </section>
     </main>
   );
